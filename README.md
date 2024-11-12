@@ -2,6 +2,8 @@
 TCC Etec - Dispenser de álcool em gel automático
 Desenvolvido durante a pandemia, o dipsenser de álcool em gel tem por objetivo higienizar a mão do usuário sem que ele entre em contato com o recipiente de álcool. Ao  aproximar as mãos o servo motor aciona que derrama uma quantidade suficiente de álcool em gel para que o usuário possa se higienizar.
 
+https://www.tinkercad.com/things/jxsEBQE1d7F-tcc
+
 ==========================================================================================================================================================================================
 #include <Servo.h> //inclui biblioteca do servo
 
